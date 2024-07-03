@@ -1,4 +1,6 @@
-## Hi there 👋
+## Hi there 👋 I am Yarif Vhora. I am lerning programming and coding last five years. now i am confident to work as SDET or QA using java- selenium and rest assured library. i am also working with playwright.
+now i am learning javascript and node.js. ofcourse Linux is my favorite OS and i am using Ubuntu since 2012.
+
 
 <!--
 **vhorayarif/vhorayarif** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
